@@ -1,5 +1,5 @@
 # Decentral-test
-Short interview test from Decentral
+Short test from Decentral
 
 ### Short explanation
 
